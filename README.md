@@ -35,12 +35,12 @@ I’m Gianpaolo, an engineer, gamer and passionate about technology and innovati
   * [`Paper`](http://arxiv.org/abs/1907.04761)
   * [`IWCMAR Conference`](https://r1d1.github.io/iwcmar/)
 
-### Public Repositories
+### 📚 Public Repositories
 * [`IACV Histogram Equalization`](https://github.com/cavalli1234/IACVimeq/blob/master/paper.pdf)
 * [`Hand Tracking`](https://github.com/gianpy15/HandTracking/blob/master/paper.pdf)
 * [`BoBooky`](https://github.com/ab3llini/BoBooky)
 
-### Contacts
+### 📫 Contacts
 * [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gianpy15/)
 * [`gpdipietro@gmail.com`](mailto:gpdipietro@gmail.com)
 <!--
